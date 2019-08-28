@@ -23,7 +23,7 @@ a:hover {
 /* BUTTON */
 
 .button1 {
-    background-color: #F28705;
+    background-color: #B36205;
     border:  2px solid white;
     border-radius: 8px;
     color: white;
@@ -51,7 +51,7 @@ a:hover {
 }
 
 .button3 {
-    background-color: #F28705;
+    background-color: #B36205;
     border:  2px solid white;
     border-radius: 8px;
     color: white;
@@ -119,14 +119,12 @@ a {
 
 
 
-
-
 /* HEADER */
 
 header {
     grid-row: 2 / 3;
     text-align: center;
-    background-color: #1F92BF;
+    background-color: #187FA5;
     color: #FFFFFF;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -187,7 +185,7 @@ header p {
     display: grid;
     grid-row: 4 / 5;
     grid-template-columns: 50% 50%;
-    background-color: #1F92BF;
+    background-color: #187FA5;
     padding: 2% 10% 5% 10%;
 
 }
